@@ -1,6 +1,6 @@
 ### Hi there 👋<h1 align="center">Hi 👋, I'm Akshay Chouke</h1>
 <h3 align="center">A passionate cybersecurity student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnmedia.eurofins.com/corporate-eurofins/media/12146567/cyber-security.gif?width=300&height=200">
+<img align="right" alt="Coding" width="400" src="https://www.esds.co.in/blog/wp-content/uploads/2020/01/leaky-cloud-3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imakshay09&label=Profile%20views&color=0e75b6&style=flat" alt="imakshay09" /> </p>
 
