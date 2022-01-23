@@ -1,4 +1,4 @@
-### Hi there 👋<h1 align="center">Hi 👋, I'm Akshay Chouke</h1>
+<h1 align="center">Hi there 👋, I'm Akshay Chouke</h1>
 <h3 align="center">A passionate cybersecurity student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.esds.co.in/blog/wp-content/uploads/2020/01/leaky-cloud-3.gif">
 
