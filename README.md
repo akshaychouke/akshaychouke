@@ -2,7 +2,7 @@
   <img src="https://t4.ftcdn.net/jpg/03/61/52/11/360_F_361521131_tvclR3GrsVQBFVsUe1EPNFgH2MWIN1w7.jpg" height="300"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Akshay Chouke</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="40px" >, I'm Akshay Chouke</h1>
 <h3 align="center">A passionate cybersecurity student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.esds.co.in/blog/wp-content/uploads/2020/01/leaky-cloud-3.gif">
 
