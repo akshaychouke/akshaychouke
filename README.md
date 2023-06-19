@@ -3,7 +3,7 @@
 </p> -->
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="auto" >, I'm Akshay Chouke</h1>
-<h3 align="center">A passionate cybersecurity student from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="450" src="https://i.ibb.co/q0t2gHT/f8281122-dc2f-44ed-813e-8fb5fab0a416-removebg-preview.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imakshay09&label=Profile%20views&color=0e75b6&style=flat" alt="imakshay09" /> </p>
